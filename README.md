@@ -14,7 +14,7 @@ El proyecto está pensado para ser utilizado en entornos educativos o corporativ
 - **Lombok**
 - **Jakarta Validation**
 - **Swagger/OpenAPI 3** (SpringDoc)
-- **H2 / MySQL** (según configuración)
+- **MySQL**
 - **Maven** como gestor de dependencias
 
 ---
