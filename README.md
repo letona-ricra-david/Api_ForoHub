@@ -63,8 +63,9 @@ La API gestiona errores de manera centralizada a través de `GestorDeErrores`.
 ```
 
 ### Imagenes de Ejemplo Foro-Hub API REST
-![crear topicos.JPG](../../../crear%20topicos.JPG)
-![crear usuario.JPG](../../../crear%20usuario.JPG)
-![iniciar sesion.JPG](../../../iniciar%20sesion.JPG)
-![mysql.JPG](../../../mysql.JPG)
-![respuestas.JPG](../../../respuestas.JPG)
+![mysql](https://github.com/user-attachments/assets/2aa0cb3a-66fd-44c8-a6ec-b9421272b2a3)
+![iniciar sesion](https://github.com/user-attachments/assets/c0945b15-935b-4fc9-9fe4-fee41def2b3f)
+![crear usuario](https://github.com/user-attachments/assets/6f64bd47-6f80-454c-bdce-f9f2911a13db)
+![crear topicos](https://github.com/user-attachments/assets/1a9be5bc-7875-4eda-9296-e83bbc7b37a7)
+![respuestas](https://github.com/user-attachments/assets/e109bda9-3616-47b7-94ea-19ad777ff3d2)
+
